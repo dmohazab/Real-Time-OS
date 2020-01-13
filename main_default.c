@@ -1,9 +1,3 @@
-/*
-Written by
-Danial Mohazab
-Cameron Nelson
-2019
- */
 
 #include <LPC17xx.h>
 #include <stdio.h>
